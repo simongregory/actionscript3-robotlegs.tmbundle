@@ -2,7 +2,7 @@ TextMate ActionScript 3 Robotlegs Bundle
 ========================================
 
 This Bundle provides [TextMate][tm] support for working with the [Robotlegs][rl]
-framework. This is **work in progress** so please [fork][repo] and contribute!
+framework. This is **work in progress** so please [fork][fork] and contribute!
 
 Features:
 
@@ -42,18 +42,13 @@ Bundle authorship uses the [TextMate conventions][tm_conventions].
 Support
 -------
 
-For the bundle
-
  * [Issue tracker][issue_tracker]
  * [Repository][repo]
 
 For general questions please use the [TextMate Users mailing list][tm_mailing_list].
 Bugs and issues should be reported via the [issue tracker][issue_tracker].
-Source can be viewed and forked via the [GitHub repository][repo].
-
-For Robotlegs
-
-Try the [Robotlegs knowledge base][rl_knowledge].
+Source can be viewed and forked via the [GitHub repository][repo]. For Robotlegs
+the [Robotlegs knowledge base][rl_knowledge].
 
 Maintainer
 ----------
@@ -96,6 +91,7 @@ an extension of txt, html, or similar.
 [as3_rl_bundle_zip]: http://github.com/simongregory/actionscript3-robotlegs.tmbundle/zipball/master
 [issue_tracker]: http://github.com/simongregory/actionscript3-robotlegs.tmbundle/issues
 [repo]: http://github.com/simongregory/actionscript3-robotlegs.tmbundle/
+[fork]: http://github.com/simongregory/actionscript3-robotlegs.tmbundle/fork
 [sg_blog]: http://blog.simonregory.com
 [tm_conventions]: http://svn.textmate.org/trunk/Conventions.txt
 [tm_env_vars]: http://manual.macromates.com/en/environment_variables
