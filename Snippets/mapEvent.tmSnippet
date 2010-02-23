@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>mapEvent(${1:eventType}, ${2:commandClass}, ${3:eventClass}${4:, ${5:oneShot}});</string>
+	<key>name</key>
+	<string>mapEvent</string>
+	<key>scope</key>
+	<string>source.actionscript.3</string>
+	<key>tabTrigger</key>
+	<string>map</string>
+	<key>uuid</key>
+	<string>E0642557-E6CD-49DE-B717-F16AAC9CD7B4</string>
+</dict>
+</plist>

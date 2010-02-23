@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>ohaqyrf@uryirpgbe.bet</string>
+	<key>contactName</key>
+	<string>Simon Gregory</string>
+	<key>description</key>
+	<string>TextMate support for the Robotlegs ActionScript 3 Framework.</string>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>337C756B-2987-4BE4-9930-76F20B1E0814</string>
+			<string>1E3DF89C-D82C-41EB-A0CB-0869FC73B725</string>
+			<string>E0642557-E6CD-49DE-B717-F16AAC9CD7B4</string>
+			<string>4E43D7D0-1BAC-4B75-86C4-169C14F4DC33</string>
+			<string>4645844E-9C29-40FD-9598-6968CDF792A3</string>
+			<string>73789226-DB8B-418B-AD89-2B8CC6F0E1FB</string>
+			<string>0022BD27-A435-43A0-A0BC-D38233C7F488</string>
+			<string>------------------------------------</string>
+			<string>12E37F0E-68B9-4F82-8980-6A14968CF335</string>
+			<string>17A2C9ED-3DCB-4AB1-B94C-1F244E5E7495</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
+	<key>name</key>
+	<string>ActionScript 3 Robotlegs</string>
+	<key>ordering</key>
+	<array>
+		<string>B4BC6CFF-5F50-49B5-856E-0872C20AB866</string>
+		<string>A500A5CB-9E12-43F5-B3AA-2EFAE89EC31D</string>
+		<string>5DC51F45-3B54-4285-B7B3-7EF82BFF3802</string>
+		<string>912E9571-C62A-44C3-A602-1EB3F4762D63</string>
+		<string>337C756B-2987-4BE4-9930-76F20B1E0814</string>
+		<string>12E37F0E-68B9-4F82-8980-6A14968CF335</string>
+		<string>17A2C9ED-3DCB-4AB1-B94C-1F244E5E7495</string>
+		<string>1E3DF89C-D82C-41EB-A0CB-0869FC73B725</string>
+		<string>E0642557-E6CD-49DE-B717-F16AAC9CD7B4</string>
+		<string>4E43D7D0-1BAC-4B75-86C4-169C14F4DC33</string>
+		<string>4645844E-9C29-40FD-9598-6968CDF792A3</string>
+		<string>73789226-DB8B-418B-AD89-2B8CC6F0E1FB</string>
+		<string>0022BD27-A435-43A0-A0BC-D38233C7F488</string>
+	</array>
+	<key>uuid</key>
+	<string>848A4EBC-34B5-4991-A6D1-EB36F6F651AB</string>
+</dict>
+</plist>

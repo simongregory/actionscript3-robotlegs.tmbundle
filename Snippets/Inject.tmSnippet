@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[Inject]
+public var ${1:propertyName}:${2:ObjectType};</string>
+	<key>name</key>
+	<string>Inject</string>
+	<key>scope</key>
+	<string>source.actionscript.3</string>
+	<key>tabTrigger</key>
+	<string>inject</string>
+	<key>uuid</key>
+	<string>12E37F0E-68B9-4F82-8980-6A14968CF335</string>
+</dict>
+</plist>

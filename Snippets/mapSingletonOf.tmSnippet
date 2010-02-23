@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>mapSingletonOf(${1:Interface}, ${2:ConcreteImplementation});</string>
+	<key>name</key>
+	<string>mapSingletonOf</string>
+	<key>scope</key>
+	<string>source.actionscript.3</string>
+	<key>tabTrigger</key>
+	<string>map</string>
+	<key>uuid</key>
+	<string>4645844E-9C29-40FD-9598-6968CDF792A3</string>
+</dict>
+</plist>
