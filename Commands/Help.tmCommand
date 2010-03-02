@@ -6,7 +6,7 @@
 	<string>nop</string>
 	<key>command</key>
 	<string>. "$TM_SUPPORT_PATH/lib/webpreview.sh"
-html_header "ActionScript 3 Robotlegs Bundle Help" "Ant"
+html_header "ActionScript 3 Robotlegs Bundle Help" "Robotlegs"
 
 "$TM_SUPPORT_PATH/lib/markdown_to_help.rb" &lt; "$TM_BUNDLE_PATH/README.mdown"
 
